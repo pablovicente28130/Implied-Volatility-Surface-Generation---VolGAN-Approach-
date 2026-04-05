@@ -28,7 +28,11 @@ env/
 *.swp
 *.swo
 
-# Data files (optional — uncomment if too large)
-# history.json
-# *.pt
-# *.pkl
+# Model artifacts and training data
+history.json
+metrics.json
+*.pt
+*.pkl
+
+# Claude config
+.claude/
