@@ -190,7 +190,7 @@ Open and run `VolGAN_ORATS.ipynb` in Jupyter. Requires access to ORATS option da
 - PC3 slightly overweighted (12.76% vs. 5.01% in data)
 - ATM 95% coverage of 80.74% (below the 95% target)
 - Single-asset, no rolling recalibration
-- ORATS notebook limited to ~1.4 years of data vs. 23 years in the original paper
+- ORATS notebook limited to ~5 years of data vs. 23 years in the original paper
 
 ---
 
